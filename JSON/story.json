@@ -1,0 +1,147 @@
+  {
+  "intro" : "test test",
+
+  "optionIa" : "continue",
+
+  "story1" : ", you find yourself sitting outside a small house. How did you get here? What is happening? Wasn't I on my train home?\n\nThese are great questions, but a better one would be why on earth is there a goblin cleaning the windows of the house?",
+
+  "option1a" : "Speak to the goblin",
+
+  "option1b" : "Jump down the well before it notices you",
+
+  "story2" : "Turns out it is a friendly and rather cheerful goblin. Within minutes he has told you about a castle, a dragon and a magical princess. He points you down the road and you are sure he mutters something about your death\n\nOf course telling you which way to go would have been nice.",
+
+  "option2a" : "To your left appears to be a charming forest",
+
+  "option2b" : "To your right... I cannot actually find a nice way to describe that wasteland",
+
+  "option2c" : "Take a moment to think",
+
+  "story3" : "Why on earth did you think jumping down a well would be a good idea? You really need to make better decisions.... you died by the way.",
+
+  "story4" : "You are in awe of the beauty of the forest. The sun is shining and the birds are singing.\n\nYou can hear something else, a beautiful voice.\n\nLooking behind a screen of bushes you see a forest clearing full of fairies dancing.",
+
+  "option4a" : "Step into the clearing as they are clearly friendly.",
+
+  "option4b" : "Continue. The princess needs you! (nobody saw but you struck a heroic pose)",
+
+  "story5" : "You step into the clearing and the fairies turn towards you. 'At last we have waited so long for you to join the feast'\n\nGathering around you the fairies gently lift you from the ground. Their singing is so beautiful.\n\nAs your feet touch the ground again you see.... the biggest pile of dishes ever amassed.\n\n'Come now slave the eternal feast needs clean dishes'",
+
+  "story6" : "You continue though the forest taking in the natural beauty. A small squirrel hops onto the trail in front of you. You could be wrong but he actually seems depressed.\n\n'Gary the squirrel collects another nut what a fascinating day he is having'\n\n You look around but cannot see anyone. The voice sounded so close though\n\n 'Oh good somebody else is here... I mean The bold adventurer strode out to meet his mighty foe... er Gary' The voice is coming from all around you and then stops. The squirrel runs off seeming much happier...\n\nYou continue on your way 'The mighty warrior strides through the forest... I was bored with that squirrel so just go with it. No offense, I think Gary may have been more heroic'\n\n You sigh and walk on hoping you are only going mad.",
+
+  "option6a" : "continue",
+
+  "story7" : "Stepping out of the forest onto the road you begin to think maybe your journey may get easier now.\n\n 'You have no chance of that'\n\n again the disembodied voice seems to mock you 'Isn't there something better you could be doing?'\n\n'like what? I am just a disembodied voice so career prospects are either haunt somewhere or narrate stuff'\n\nProbably best not argue, since she has a point, plus I can hear a horse approaching",
+
+  "option7a" : "Hide at the side of the road",
+
+  "option7b" : "Stay in open and meet the danger head on",
+
+  "story8" : "From your hiding place at the side of the road you can see the horse approaching. In the sun it is hard to make out the rider. They look small, a child perhaps?\n\n'The noble hero hides in the bushes.... you are worse than narrating a squirrel'\n\nYou step out onto the road and walk towards the horse. Raising your arm to wave you step forwards to greet the rider.\n\nYou suddenly hear a very loud 'BukaaAAA!!' and feel a sharp pain.\n\n'Wow death by chicken I'm going back to Gary'",
+
+  "story9" : "Standing in the middle of the road you see the horse approaching. As it gets closer you realise just how large this horse is. Without doubt the largest horse you have ever seen.\n\nYou look towards the rider. A horse as magnificent as this surely must be the mount of a king or knight. Sitting astride the gigantic horse is..... a small brown chicken wearing a red cape.\n\n'The mighty hero...' 'No, no more of that'\n\nThe chicken rides past slowly watching you as he does 'Buk buk buk bukkkaaaa' and with that he rides off\n\n'I hope you don't expect me to translate after you were so rude'",
+
+  "option9a" : "continue",
+
+  "story10" : "Once again you arrive at a crossroads. To your left is a path leading up a mountain and to the right a winding trail through a swamp.\n\nIn the distance you can see the tower on the horizon but its impossible to tell which path leads to it.\n\n'Our hero stands at a crossroads. where will his journey take him and..... actually I don't even know where you are going'\n\nYou explain what the goblin told you. 'Oh, I see.... erm either path will get you there... but maybe you... never mind' --- add lava option",
+
+  "option10a" : "Take the path up into the mountains",
+
+  "option10b" : "Follow the trail into the swamp",
+
+  "option10c" : "lava - write",
+
+  "story11" : "The path through the mountains is more pleasant than you expected until. 'I cannot go any further.... I wish you luck' you pause confused which she obviously notices\n\n'I cannot explain it but I... er.. well look I just cannot go back to that castle'\n\nSilence. You realise she really is gone. You might actually miss her.\n\nBefore you stands the castle. Is your journey almost over?",
+
+  "option11a" : "continue",
+
+  "story12" : "The trail through the swamp is not as bad as you expected until. 'I cannot go any further.... I wish you luck' you pause confused which she obviously notices\n\n'I cannot explain it but I... er.. well look I just cannot go back to that castle'\n\nSilence. You realise she really is gone. You might actually miss her.\n\nBefore you stands the castle. Is your journey almost over?",
+
+  "option12a" : "continue",
+
+  "story13" : "You quietly sneak in through the castle door. Before you is the biggest dragon you have ever seen (in fairness you have never seen an actual dragon so have no basis for comparison)\n\nThe princess is sitting at a small table just behind the dragon.... just a thought but maybe you should have brought a weapon?\n\nWithout any sort of weapon you do the most heroic thing you can think of. You step out before the dragon and boldly shout 'Is that Elvis?' pointing to the far side of the room.\n\nThere is absolutely no reason the dragon should look but she does (what were the chances) You quickly grab the princess and jump out of the nearby window rolling to safety.\n\nYou start to feel very tired as the princess begins to thank you",
+
+  "option13a" : "continue",
+
+  "story14" : "Breaking down the door of the castle you leap heroically inside.\n\n'Princess I have come to save......'\n\nBefore you, you see a dragon in tears and a princess standing over it laughing.\n\nIn truth the goblin never did say who needed rescuing. you cough loudly\n\n'Just so I know, who is need of rescuing? As we are sort of breaking from the stereotype here'\n\n The princess turns to you and draws a sword..... ok dragon it is then. You quickly grab the dragon and jump out of the nearby window rolling to safety.\n\nYou start to feel very tired as the dragon begins to thank you",
+
+  "option14a" : "continue",
+
+  "story15" : "You stumble along through the wasteland under a baking sun.\n\nBeginning to regret the decision to come this way you push on in the vain hope that there will be an end in sight.\n\nClose to giving up you see a dark shape in the distance. Dragging yourself on the shape becomes clearer and you see it is a cave.\n\nYou collapse in the shadow of the cave taking solace in the break from the sun.",
+
+  "option15a" : "Take the chance that it's safe and enter the cave to rest",
+
+  "option15b" : "Too risky. Rest up in the shade and continue on",
+
+  "story16" : "Upon entering the cave you see nothing to worry you. Just some small animals that are cautiously keeping their distance from you\n\nYou move towards the sound of running water to find a small underground stream. Drinking deeply you rest on the rocks near the water.\n\nHearing a noise deeper into the cave you begin to worry that there may be danger here after all.",
+
+  "option16a" : "sneak deeper into the cave to investigate.",
+
+  "option16b" : "Have another drink and leave the cave quietly.",
+
+  "story17" : "Continuing on through the wasteland you realise you should have stopped at the cave longer.\n\nThe heat is unbearable and with no end in sight it gets harder to mentally push yourself forwards\n\nSeveral hours later you have had enough and collapse instantly passing out.\n\nThe sensation of water on your face brings you round. You can barely see but know that somebody is standing over you. 'What kind of fool walks out into this with no supplies, I should have let you die'\n\nby the time you are able to stand the stranger is gone but they have left you some water.",
+
+  "option17a" : "continue",
+
+  "story18" : "Venturing deep into the cave you see a group of Goblins singing and dancing. They seem friendly so you step out of the shadows to greet them.\n\nAs you approach they laugh and hand you a drink 'Nobody with any sense has any business being out in that heat friend'\n\nAfter several hours drinking and talking with the goblins you feel fully recovered. You stand to leave but the goblins stop you. 'This cave does strange things friend you might want to look at yourself before you think about leaving'\n\nConfused you look at the water of the stream.... staring back at you is the face of a goblin.",
+
+  "story19" : "Finally you leave the wasteland behind you.\n\nThe road ahead looks well travelled and you already feel more positive about the rest of your journey. As you walk you think about what you have experienced so far. Why had you even gone on this journey? why were you facing death to save somebody you do not know?\n\nThe more you think about it the more it feels like you are doing the right thing\n\n'Nothing can stand in my way now. With what I have survived there is nothing this world can throw at me that could be worse.'",
+
+  "option19a" : "continue",
+
+  "story20" : "No sooner do you claim your invincibility to the universe it responds with another obstacle.... a chicken.\n\nNow you would not normally be concerned by a chicken but this one is wearing a cape and holding a sword. The cape ok I'll give it that but how can a chicken even hold a sword?\n\nLike a scene from a movie the chicken slowly raises the sword to point at you, the wind gently blowing its cape. Then it speaks..... 'Buk buk buk Bukkkkaaaaaa!!!!!!!' and charges at you.",
+
+  "option20a" : "Run to safety, hoping you are faster.",
+
+  "option20b" : "Stand your ground and fight.",
+
+  "option20c" : "talk option",
+
+  "story21" : "You plant your feet and stand ready as the chicken charges at you.\n\nAs he gets closer and closer you are sure that he is not strong enough to do any damage if he runs into you. The sword on the other hand could.\n\nIt seems you underestimated the strength of this mighty bird who knocks you off your feet and through the bushes next to the road. You roll to your feet looking round for your enemy but cannot see him. You can hear running water behind you and turn to see a small waterfall.\n\nYou can see light behind it. As you have underestimated your foe once already feel its best to make your exit.\n\nClimbing through the waterfall and the cave beyond you step out into a clearing and see the tower before you... handy that",
+
+  "option21a" : "continue",
+
+  "story22" : "If that chicken can hold a sword it can certainly do you some damage. Deciding that you could probably move faster than your foe, you quickly jump out of his way.\n\nBefore he can recover from lunging at thin air you dive through the bushes next to the road. Peering through the bushes you hear running water behind you and turn to see a small waterfall.\n\nYou can see light behind it\n\nClimbing through the waterfall and the cave beyond you step out into a clearing and see the tower before you... handy that",
+
+  "option22a" : "continue",
+
+  "story23" : "You slowly start to come round. You cannot quite see anything yet but you hear the sound of the train\n\nWas it all just a dream?\n\nThen you hear a familiar voice near by. You smile 'I saved you'",
+
+  "option23a" : "Thank you for playing. Expect more story to be added soon.",
+
+  "story24" : "test test re-write story 2",
+
+  "option24a" : "continue",
+
+  "story25" : "carried off by eagle - to be written",
+
+  "story26" : "more wasteland",
+
+  "story27" : "encounter with mysterious stranger",
+
+  "story28" : "from 10c - burn in lava",
+
+  "story29" : "chicken - trust, do not, other",
+
+  "story30" : "narrator - trust, do not, other",
+
+  "story31" : "stranger - trust, do not, other",
+
+  "story32" : "killed by stranger",
+
+  "story33" : "trust chicken",
+
+  "story34" : "trust narrator",
+
+  "story35" : "do not trust chicken",
+
+  "story36" : "do not trust narrator",
+
+  "story37" : "do not trust stranger",
+
+  "story38" : "trust stranger",
+
+  "story39" : "save narrator",
+
+  "story40" : "save stranger",
+  }
